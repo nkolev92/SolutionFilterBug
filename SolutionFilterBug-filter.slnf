@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "SolutionFilterBug.sln",
+    "projects": [
+      "BadlyAuthoredSdkProject\\BadlyAuthoredSdkProject.csproj",
+      "ProjectThatLoads\\ProjectThatLoads.csproj"
+    ]
+  }
+}
