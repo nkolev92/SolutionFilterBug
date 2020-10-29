@@ -3,7 +3,8 @@
     "path": "SolutionFilterBug.sln",
     "projects": [
       "BadlyAuthoredSdkProject\\BadlyAuthoredSdkProject.csproj",
-      "ProjectThatLoads\\ProjectThatLoads.csproj"
+      "ProjectThatLoads\\ProjectThatLoads.csproj",
+      "ProjectThatDoesntLoad\\ProjectThatDoesntLoad.csproj"
     ]
   }
 }
